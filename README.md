@@ -10,6 +10,8 @@ This repository my work for the [Exercism](https://exercism.org/) C# track.
 ### Submission Command
 `exercism submit "Exercism\csharp\log-analysis\LogAnalysis.cs"`
 
+![Banner](Data/Images/CSharp-Exercism-S04-ExtensionMethods-Title.png)
+
 # Log Analysis
 
 Welcome to Log Analysis on Exercism's C# Track.
